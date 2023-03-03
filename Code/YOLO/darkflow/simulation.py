@@ -440,7 +440,7 @@ class Main:
     white = (255, 255, 255)
 
     # Screensize 
-    os.e
+    
     screenWidth = 1400
     screenHeight = 800
     screenSize = (screenWidth, screenHeight)
